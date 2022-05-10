@@ -18,5 +18,6 @@
       "\\": "src/"
     }
   },
-  "license": "MIT"
+  "license": "MIT",
+  "minimum-stability": "dev" 
 }
