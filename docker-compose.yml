@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+    sample-composer-library:
+        container_name: sample-composer-library
+        build: .
+        volumes:
+            - .:/var/www/html

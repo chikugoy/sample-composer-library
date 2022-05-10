@@ -1,0 +1,23 @@
+{
+  "name": "chikugoy/sample-composer-library",
+  "type": "library",
+  "description": "composer library sample",
+  "homepage": "https://github.com/chikugoy/sample-composer-library",
+  "keywords": ["sample-composer-library"],
+  "authors": [
+    {
+      "name": "chikugoy",
+      "email": "info@example.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.0.0"
+  },
+  "autoload": {
+    "psr-0": {
+      "OkutaniT\\": "src/",
+      "OkutaniT\\Tests\\": "tests/"
+    }
+  },
+  "license": "MIT"
+}
