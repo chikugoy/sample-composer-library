@@ -15,13 +15,8 @@
   },
   "autoload": {
     "psr-4": {
-      "\\": "src/"
+      "chikugoy\\": "src/"
     }
   },
   "license": "MIT",
-  "config": {
-    "sort-packages": true
-  },
-  "minimum-stability": "dev",
-  "prefer-stable": true
 }
