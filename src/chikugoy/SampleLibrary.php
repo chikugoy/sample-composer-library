@@ -1,5 +1,7 @@
 <?php
 
+namespace chikugoy;
+
 /**
  * composer libraryのさんぷる
  *
