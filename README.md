@@ -52,3 +52,4 @@ composerのlibraryのサンプル
 4. Repository URLにリポジトリがあるGitHubのURLを入力して「Check」ボタンクリック
 5. 続けて問題なければ「Submit」ボタンクリック
 
+ここまで実施した後に「Packagistでパッケージ配布なし用」の利用手順1の手順が不要となります。（他の手順は同様）
