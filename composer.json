@@ -14,9 +14,7 @@
     "php": ">=5.6"
   },
   "autoload": {
-    "psr-4": {
-      "chikugoy\\": "src/"
-    }
+    "psr-0": { "chikugoy": "src/" }
   },
   "license": "MIT"
 }
