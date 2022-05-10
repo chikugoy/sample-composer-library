@@ -15,8 +15,7 @@
   },
   "autoload": {
     "psr-0": {
-      "OkutaniT\\": "src/",
-      "OkutaniT\\Tests\\": "tests/"
+      "\\": "src/"
     }
   },
   "license": "MIT"
